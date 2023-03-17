@@ -7,3 +7,6 @@
 [submodule "imgui"]
 	path = imgui
 	url = git@github.com:ocornut/imgui.git
+[submodule "premake-comppp"]
+	path = premake-comppp
+	url = git@github.com:RicoP/premake-comppp.git
